@@ -8,6 +8,7 @@ Applying the Elo rating system on this data allows us to have an unbiased rating
 
 - [Backend](https://github.com/aoe-elo/aoe-elo-backend)
 - [Frontend](https://github.com/aoe-elo/aoe-elo-frontend)
+- [Documentation](https://aoe-elo.github.io/docs/)
 
 ### 🛠️ Contributing
 
